@@ -1,8 +1,8 @@
 ## 👋 Hi there! I’m Andrija,
 
-- 👀 a front-end developer.
-- 🌱 currently learning JavaScript, React, TypeScript, Next.js, and Node.js.
-- 💞️ looking for new job opportunities to start my career as a junior web developer.
+- 👀 a front-end developer and translator,
+- 🌱 currently learning JavaScript, React, TypeScript, Next.js, and Node.js,
+- 💞️ and looking for new job opportunities to launch 🚀 my career as a junior web developer.
 
 - 📫 How to reach me: andrija.kapetanovic@gmail.com
 - ✨ For more info visit: [andrijakapetanovic.com](https://www.andrijakapetanovic.com/)

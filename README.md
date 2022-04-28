@@ -1,7 +1,7 @@
 ## 👋 Hi there! I’m Andrija,
 
 - 👀 a front-end developer.
-- 🌱 currently learning HTML, CSS, JavaScript, React, TypeScript, Next.js, and Node.js.
+- 🌱 currently learning JavaScript, React, TypeScript, Next.js, and Node.js.
 - 💞️ looking for new job opportunities to start my career as a junior web developer.
 
 - 📫 How to reach me: andrija.kapetanovic@gmail.com

@@ -1,7 +1,7 @@
 ## 👋 Hi there! I’m Andrija,
 
-- 👀 a front-end developer and translator,
-- 💞️ who works at [Crafted](https://craftedup.com/) as a front-end web developer,
+- :computer: a front-end developer and translator,
+- :hammer_and_wrench: who works at [Crafted](https://craftedup.com/) as a front-end web developer,
 - 🌱 currently, and always, learning something new about JavaScript, React, TypeScript, Next.js, and Vuejs.
 
 - 📫 How to reach me: andrija.kapetanovic@gmail.com

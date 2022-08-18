@@ -1,6 +1,6 @@
 ## 👋 Hi there! I’m Andrija,
 
-- :computer: a front-end developer and translator,
+- :computer: a front-end web developer and translator,
 - :hammer_and_wrench: working at [Crafted](https://craftedup.com/),
 - 🌱 always learning something new about JavaScript, TypeScript, React, Next.js, Vue.js, and Nuxt.js.
 

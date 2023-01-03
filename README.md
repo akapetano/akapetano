@@ -5,7 +5,7 @@
 - 🌱 always learning something new about JavaScript, TypeScript, React, Next.js, Vue, and Nuxt.js.
 
 - 📫 How to reach me: andrija.kapetanovic@gmail.com
-- ✨ For more info visit my website: [andrijakapetanovic.com](https://www.andrijakapetanovic.com/).
+- 🕸️ For more info visit my website: [andrijakapetanovic.com](https://www.andrijakapetanovic.com/).
 
 <!---
 akapetano/akapetano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

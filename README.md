@@ -1,6 +1,6 @@
-## 👋 Hi there! I’m Andrija,
+## 👋 Hi, I’m Andrija Kapetanović
 
-- :computer: a front-end web developer and translator,
+- :computer: a front-end developer,
 - :hammer_and_wrench: working at [Crafted](https://craftedup.com/),
 - 🌱 always learning something new about HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, and Nuxt.js.
 

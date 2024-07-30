@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Andrija Kapetanović
+## 👋 Hi! I’m Andrija Kapetanović
 
 - :computer: a front-end developer,
-- :hammer_and_wrench: working at [Crafted](https://craftedup.com/),
+- :hammer_and_wrench: at [Crafted](https://craftedup.com/),
 - 🌱 always learning something new about HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, and Nuxt.js.
 
 - 📫 How to reach me: andrija.kapetanovic@gmail.com

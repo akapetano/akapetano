@@ -2,7 +2,7 @@
 
 - :computer: a full-stack developer,
 - :hammer_and_wrench: at [Crafted](https://craftedup.com/),
-- 🌱 always learning something new about HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, and Nuxt.js.
+- 🌱 always learning something new about HTML, CSS, JavaScript, TypeScript, React, Next.js, and Go.
 
 - 📫 How to reach me: andrija.kapetanovic@gmail.com
 - 🕸️ For more info visit my website: [andrijakapetanovic.com](https://www.andrijakapetanovic.com/).
